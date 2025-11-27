@@ -5,7 +5,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-red)](https://www.sqlalchemy.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-📘 tomato-novel-backend-flask is a modular and scalable backend service for the Tomato Novel platform, built with Flask + SQLAlchemy. Reconstructed from the design principles of the official Tomato Novel site (番茄小说), this backend provides features such as multi-role permission management, hierarchical page modules, CRUD operations for novels and chapters, nested commenting, and file upload support. It is designed to work seamlessly with [tomato-novel-frontend-vue3](https://github.com/Tiks05/tomato-novel-frontend-vue3) built with Vue3 + TypeScript.
+📘 tomato-novel-backend-flask is a modular and scalable backend service that fully reconstructs the official Tomato Novel website. Built with Flask + SQLAlchemy, this project implements the core features of the platform, including multi-role permission management, hierarchical page modules, CRUD operations for novels and chapters, a nested comment system, and file upload support. It is designed to work seamlessly with [tomato-novel-frontend-vue3](https://github.com/Tiks05/tomato-novel-frontend-vue3) built with Vue3 + TypeScript.
 
 ## ✨ Features
 

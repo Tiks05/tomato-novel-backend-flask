@@ -1,11 +1,11 @@
-# CMS-backend · Content Management System Backend
+# Tomato Novel · Backend Service (Flask)
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)](https://flask.palletsprojects.com/)
 [![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-red)](https://www.sqlalchemy.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-📘 CMS-backend is a scalable and modular backend service for an article management system built with Flask + SQLAlchemy 2.x. Inspired by the official design of Tomato Novel (番茄小说), this backend supports multi-role access control, article publishing, nested comments, file uploads, and more. It is designed to work seamlessly with [CMS-frontend](https://github.com/Tiks05/CMS-frontend) built with Vue3 + TypeScript.
+📘 tomato-novel-backend-flask is a modular and scalable backend service for the Tomato Novel platform, built with Flask + SQLAlchemy. Reconstructed from the design principles of the official Tomato Novel site (番茄小说), this backend provides features such as multi-role permission management, hierarchical page modules, CRUD operations for novels and chapters, nested commenting, and file upload support. It is designed to work seamlessly with [tomato-novel-frontend-vue3](https://github.com/Tiks05/tomato-novel-frontend-vue3) built with Vue3 + TypeScript.
 
 ## ✨ Features
 
